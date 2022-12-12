@@ -1,0 +1,24 @@
+.content-component {
+    margin-top: 6em;
+    margin-right: auto;
+    text-align: center;
+}
+
+.TitleContent {
+    font-size: 16px;
+    color: #c4c4c4;
+}
+
+.Subtitle {
+    color:  #1c246c;
+    font-size: 45px;
+}
+
+.ImgContent {
+    margin-top: 2em;
+}
+
+.Line {
+    width: 73em;
+    margin-left: 6em;
+}
